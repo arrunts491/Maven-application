@@ -34,6 +34,6 @@ public class ScholarshipCalculator {
         System.out.println("Grade: " + grade);
         System.out.println("Result: " + status);
         System.out.println("Scholarship Eligible: " + (isEligible ? "Yes" : "No"));
-        System.out.println("-------------------------");
+        System.out.println("------------------------- CHANGES MADE ----------------");
     }
 }
